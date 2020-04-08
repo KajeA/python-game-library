@@ -1,2 +1,2 @@
 # python-game-library
- Game library using Python, Flask and vue.js 
+ Game library using Python, Flask, Bootstrap and Vue.js 
